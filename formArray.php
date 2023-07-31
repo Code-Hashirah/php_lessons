@@ -74,7 +74,7 @@
                 echo "Data Submitted Successfuly";
             }
             else{
-
+                echo "Unable to save data";
             }
         }
     }
